@@ -11,11 +11,11 @@
   "dependencies": {
     "@kubernetes/client-node": "0.18.1",
     "@tanstack/react-query": "^4.29.13",
-    "axios": "1.4.0",
+    "axios": "1.8.3",
     "clsx": "^1.2.1",
     "immer": "^10.0.2",
     "js-yaml": "^4.1.0",
-    "next": "13.4.5",
+    "next": "13.5.9",
     "react": "18.2.0",
     "sealos-desktop-sdk": "^0.1.14",
     "typescript": "5.1.3",
